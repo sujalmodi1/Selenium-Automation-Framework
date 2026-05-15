@@ -1,0 +1,8 @@
+<suite name="LoginSuite">
+  <test name="LoginTest">
+    <classes>
+      <!-- <class name="com.test.automation.AppTest"/> -->
+      <class name="tests.LoginTest"/>
+    </classes>
+  </test>
+</suite>
